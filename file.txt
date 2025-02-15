@@ -2,8 +2,12 @@ hello
 my name is dilleswari 
 iam changed 
 changed for github
+<<<<<<< HEAD
 changed again on candidates request 
 iam changed by github editor 
 iam on dilleswari branch learning merge conflict 
 who are you 
 bhsjagsahdg
+=======
+iam changed in github editor
+>>>>>>> e8015257f001cfba2ae81cb789b1c08fb2d3770a
